@@ -14,11 +14,11 @@
 Sample screenshot of the website:
 <img width="1918" height="970" alt="image" src="https://github.com/user-attachments/assets/19808181-5235-4534-8a80-86dbaa0f9184" />
 
-## 🌟 Overview
+##  Overview
 
 This project is a lightweight, frontend-only application designed to convert URLs and text strings into scannable QR codes instantly. It completely bypasses the need for backend APIs by leveraging native browser capabilities and the `qrious` JavaScript library for rapid, client-side canvas rendering. 
 
-## 🛠️ Built With
+##  Built With
 
 *   **HTML5 & CSS3:** Utilizing custom CSS variables, flexbox, and modern UI principles (soft shadows, translucent backgrounds, borderless inputs) to create a minimalist, floating-card aesthetic.
 *   **Vanilla JavaScript (ES6+):** For DOM manipulation, state management, and event handling.
@@ -26,7 +26,7 @@ This project is a lightweight, frontend-only application designed to convert URL
 
 ---
 
-## 🧠 Technical Implementation & Use of `qrious`
+##  Technical Implementation & Use of `qrious`
 
 This project heavily utilizes the `qrious` library to handle the complex mathematics of QR encoding. Here is how it is implemented under the hood:
 
