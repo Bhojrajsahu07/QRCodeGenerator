@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h1>📱 Minimalist QR Code Generator</h1>
+  <h1> Minimalist QR Code Generator</h1>
   <p>A sleek, client-side web application that instantly generates high-quality QR codes from any valid URL or text.</p>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
