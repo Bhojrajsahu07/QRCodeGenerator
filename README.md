@@ -46,7 +46,7 @@ A major technical hurdle in canvas-based QR generation is anti-aliasing blur (of
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Since this is a static frontend project, no package managers (like npm) or build tools are required. 
 
